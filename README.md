@@ -25,6 +25,7 @@
 - https://www.smashingmagazine.com/
 - http://uxmag.com/
 - https://speckyboy.com/
+- https://uxdesign.cc/
 - http://uxmovement.com/
 - https://www.designernews.co/
 - http://www.uxbooth.com/articles/
