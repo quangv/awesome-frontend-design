@@ -20,6 +20,22 @@
 - https://mediaqueri.es/
 - http://emptystat.es/
 
+## Blog & News
+- https://alistapart.com/
+- https://www.smashingmagazine.com/
+- http://uxmag.com/
+- https://speckyboy.com/
+- http://uxmovement.com/
+- https://www.designernews.co/
+- http://www.uxbooth.com/articles/
+- https://sidebar.io/
+- https://tympanus.net/codrops/
+- https://www.creativebloq.com/net-magazine
+
+## Newsletters
+- http://uxdesignweekly.com/
+- https://sidebar.io/
+
 ## Swipe File
 - https://www.pttrns.com/
 - https://www.casestudy.club/
@@ -49,4 +65,16 @@
 
 ## Books
 - "Design Sprint"
+
+## Conferences
+- https://www.fieldtrips.io/
+
+## Tool Comparisons
+- https://uxtools.co/
+
+## Zeitgeists
+- https://trends.uxdesign.cc/
+
+
+taken from https://webfieldmanual.com/design.html
 
