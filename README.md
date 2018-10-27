@@ -6,13 +6,18 @@
 - https://thefwa.com/
 
 ## Show and Tell
-- https://www.siteinspire.com/
 - https://codepen.io/
-- https://dribbble.com/
-- https://www.behance.net/
+
+### Web Design
+- https://www.siteinspire.com/
 - https://httpster.net/
 - https://sitesee.co/
 - https://www.casestudy.club/
+
+### Graphics
+- https://dribbble.com/
+- https://www.behance.net/
+
 
 ## Niche
 - https://onepagelove.com/
