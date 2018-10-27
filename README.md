@@ -21,10 +21,11 @@
 
 
 ## Niche
-- https://onepagelove.com/
 - http://littlebigdetails.com/
 - https://mediaqueri.es/
 - http://emptystat.es/
+- https://onepagelove.com/
+
 
 ## Blog & News
 - https://alistapart.com/
