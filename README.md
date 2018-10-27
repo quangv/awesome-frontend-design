@@ -7,9 +7,9 @@
 
 ## Show and Tell
 - https://www.siteinspire.com/
+- https://codepen.io/
 - https://dribbble.com/
 - https://www.behance.net/
-- https://codepen.io/
 - https://httpster.net/
 - https://sitesee.co/
 - https://www.casestudy.club/
